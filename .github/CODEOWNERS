@@ -1,0 +1,15 @@
+# CODEOWNERS
+
+# NOTE: Replace placeholder handles with your real GitHub usernames or teams.
+
+# Editorial owners
+/content/ @tebohojackson74-sys
+/docs/ @tebohojackson74-sys
+
+# Data & reproducibility owners
+/AINN/notebooks/ @tebohojackson74-sys
+/AINN/data/ @tebohojackson74-sys
+
+# Platform & automation
+.github/ @tebohojackson74-sys
+
