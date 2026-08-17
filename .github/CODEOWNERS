@@ -1,15 +1,15 @@
-# CODEOWNERS
+# AINews CODEOWNERS
+# Interim ownership uses the repository owner until dedicated newsroom teams exist.
+# Branch protection must require CODEOWNERS review before production merges.
 
-# NOTE: Replace placeholder handles with your real GitHub usernames or teams.
-
-# Editorial owners
+# Editorial content and policy
 /content/ @tebohojackson74-sys
 /docs/ @tebohojackson74-sys
 
-# Data & reproducibility owners
+# Reproducible research
 /AINN/notebooks/ @tebohojackson74-sys
 /AINN/data/ @tebohojackson74-sys
 
-# Platform & automation
-.github/ @tebohojackson74-sys
-
+# Engineering and repository controls
+/.github/ @tebohojackson74-sys
+/SECURITY.md @tebohojackson74-sys
